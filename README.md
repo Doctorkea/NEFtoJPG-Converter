@@ -1,2 +1,2 @@
-# NEFtoJPG-Converter
-A simple python program that converts RAW Nikkon images to JPG
+#RAW to JPEG Converter
+A lightweight, high-performance desktop application built with Python to batch-convert Nikon RAW (NEF) files into high-quality JPEG images.
